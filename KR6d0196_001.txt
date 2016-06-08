@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:37.284459
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:51
 #+TITLE: 金光明最勝懺儀
 #+PROPERTY: CBETA_ID T46n1946
 #+PROPERTY: ID KR6d0196
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1946
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0196_T_000-0961c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0196_T_001-0961c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1946[cf.No.1945]¶
-
- 金光明最勝懺儀¶
+No. 1946 [cf. No. 1945]¶
+金光明最勝懺儀¶
 ¶
 宋傳天台教觀四明沙門知禮集¶
 
@@ -82,9 +81,9 @@ No.1946[cf.No.1945]¶
 　相好如空不可測
 　逾於千日放光明¶
 　皆如焰幻不思議
-　故我稽首心無著
+　故我稽首心無著」
 #+END_VERSE
-」¶
+¶
 
 　　(讚已當陳述意。須合掌恭敬。令眾平聲三唱云)。¶
 
